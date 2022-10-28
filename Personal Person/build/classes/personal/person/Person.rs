@@ -1,0 +1,2 @@
+personal.person.NewClass
+Person
